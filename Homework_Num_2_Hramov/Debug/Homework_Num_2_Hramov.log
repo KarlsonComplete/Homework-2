@@ -1,0 +1,5 @@
+﻿  Source5.cpp
+  Задача6.cpp
+  Создание кода...
+C:\Users\Кирил\source\repos\Homework_Num_2_Hramov\Homework_Num_2_Hramov\Source5.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Homework_Num_2_Hramov.vcxproj -> C:\Users\Кирил\source\repos\Homework_Num_2_Hramov\Debug\Homework_Num_2_Hramov.exe
